@@ -1,16 +1,22 @@
-## Hi there 👋
+# Aravindh V
 
-<!--
-**Aravindh2727/Aravindh2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Aravindh V, a Full Stack Developer from India.
 
-Here are some ideas to get you started:
+## About Me
+I am passionate about Web Development, AI, and Software Engineering.
+Currently building full-stack applications and improving my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML, CSS, JavaScript
+- React
+- Node.js
+- MongoDB
+- Java
+
+## Projects
+- My Digital Learning Hub
+- Portfolio Website
+- Web Applications
+
+## Connect with Me
+GitHub: https://github.com/Aravindh2727
