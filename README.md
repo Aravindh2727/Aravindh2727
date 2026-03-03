@@ -1,29 +1,54 @@
-# Aravindh V
+# Aravindh V | AI & Full Stack Developer
 
-Hi, I'm Aravindh V — a Full Stack Developer from India.
+Hi, I'm **Aravindh V**, an AI & Full Stack Developer from India specializing in scalable web applications, Machine Learning, and modern software engineering.
+
+---
 
 ## 🚀 About Me
-I am passionate about Web Development, Artificial Intelligence, and Software Engineering.
-Currently building scalable full-stack applications and improving my development skills every day.
 
-## 🛠 Skills
-- HTML, CSS, JavaScript
-- React
-- Node.js
-- MongoDB
-- Java
-- AI & NLP
+I am passionate about:
 
-## 📂 Projects
-- My Digital Learning Hub
-- Portfolio Website
-- Full Stack Web Applications
+- Full Stack Web Development  
+- Artificial Intelligence & NLP  
+- Building real-world software solutions  
+- Continuous learning and skill improvement  
 
-## 🌐 Portfolio
-Official Website:
-https://aravindh2727.github.io/
+I focus on creating intelligent and performance-driven applications.
 
-## 🔗 Connect with Me
-GitHub: https://github.com/Aravindh2727
-LinkedIn: https://www.linkedin.com/in/aravindh-v2727/
-Email: aravindhvinayagam2007@gmail.com 
+---
+
+## 🛠 Technical Skills
+
+- HTML, CSS, JavaScript  
+- React.js  
+- Node.js  
+- MongoDB  
+- Java  
+- Artificial Intelligence & NLP  
+- REST APIs  
+
+---
+
+## 📂 Featured Projects
+
+- **My Digital Learning Hub** – Personal knowledge management system  
+- **Portfolio Website** – Personal branding & AI developer portfolio  
+- **Full Stack Web Applications** – MERN stack based scalable apps  
+
+---
+
+## 🌐 Official Website
+
+🔗 https://aravindh2727.github.io/
+
+---
+
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/Aravindh2727  
+- LinkedIn: https://www.linkedin.com/in/aravindh-v2727/  
+- Email: aravindhvinayagam2007@gmail.com  
+
+---
+
+⭐ Always building. Always improving.
