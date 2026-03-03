@@ -1,4 +1,4 @@
-# Aravindh V | AI & Full Stack Developer | React | Node.js | NLP | India
+# AI & Full Stack Developer | React | Node.js | NLP | Building Scalable Web Applications
 
 Hi, I'm **Aravindh V**, an AI & Full Stack Developer from India specializing in scalable web applications, Machine Learning, and modern software engineering.
 
