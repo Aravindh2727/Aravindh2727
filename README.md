@@ -37,15 +37,13 @@ I focus on creating intelligent, efficient, and impactful software systems.
 ### 🔹 My Digital Learning Hub
 Personal knowledge management system for organizing projects, notes, and study resources.
 
-### 🔹 Portfolio Website
-Personal AI & Full Stack Developer portfolio.
 
 ### 🔹 Full Stack Web Applications
 Scalable MERN stack applications with authentication and REST APIs.
 
 ---
 
-## 🌐 Official Website
+## 🌐 Official Portfolio Website
 
 🔗 https://aravindh2727.github.io/
 
