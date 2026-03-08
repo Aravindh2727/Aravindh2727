@@ -51,6 +51,19 @@ Scalable MERN stack applications with authentication and REST APIs.
 
 ---
 
+
+### 🔹 SmartCalc Pro – All-in-One Calculator
+
+A modern multi-tool online calculator built with JavaScript that includes multiple utilities for everyday calculations.
+
+Features:
+- Many productivity tools in one place
+
+Live  
+https://aravindh2727.github.io/aravindh-calculator/
+
+---
+
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/Aravindh2727
