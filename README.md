@@ -61,16 +61,26 @@
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <!-- GitHub Streak Stats (This is the one that was working in your screenshot) -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-[![Aravindh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aravindh2727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9)](https://github.com/Aravindh2727)
-[![Aravindh's GitHub Streak](https://streak-stats.demolab.com/?user=Aravindh2727&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff)](https://github.com/Aravindh2727)
+<p align="center">
+  <!-- Aravindh's GitHub General Stats -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aravindh's GitHub Stats" />
+  </a>
+</p>
 
-<br>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindh2727&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9)](https://github.com/Aravindh2727)
-
-</div>
+<p align="center">
+  <!-- Top Languages -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 <hr/>
 
