@@ -62,23 +62,20 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <!-- GitHub Streak Stats (This is the one that was working in your screenshot) -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/USERNAME_PLACEHOLDER">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_PLACEHOLDER&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Aravindh's GitHub General Stats -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aravindh's GitHub Stats" />
+  <a href="https://github.com/USERNAME_PLACEHOLDER">
+    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_PLACEHOLDER&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aravindh's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/USERNAME_PLACEHOLDER">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_PLACEHOLDER&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
