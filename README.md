@@ -62,23 +62,22 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/USERNAME_PLACEHOLDER">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_PLACEHOLDER&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Aravindh2727">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindh2727&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME_PLACEHOLDER">
-    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_PLACEHOLDER&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aravindh's GitHub Stats" />
+  <a href="https://github.com/Aravindh2727">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aravindh2727&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aravindh's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME_PLACEHOLDER">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_PLACEHOLDER&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Aravindh2727">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindh2727&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
-
 <hr/>
 
 <p align="center">
