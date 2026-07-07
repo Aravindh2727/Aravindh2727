@@ -62,20 +62,14 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/Aravindh2727">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aravindh2727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&v=1" alt="Aravindh's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Aravindh2727">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindh2727&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&v=1" alt="Aravindh's GitHub Streak" width="48%" />
-  </a>
-</div>
+
+[![Aravindh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aravindh2727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9)](https://github.com/Aravindh2727)
+[![Aravindh's GitHub Streak](https://streak-stats.demolab.com/?user=Aravindh2727&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff)](https://github.com/Aravindh2727)
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/Aravindh2727">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindh2727&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&v=1" alt="Top Languages" width="60%" />
-  </a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindh2727&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9)](https://github.com/Aravindh2727)
+
 </div>
 
 <hr/>
