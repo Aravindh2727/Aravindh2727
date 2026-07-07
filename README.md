@@ -1,96 +1,119 @@
-<h1 align="center">Hi 👋, I'm Aravindh V</h1>
-<h3 align="center">AI & Full-Stack Developer | Innovator | Problem Solver</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+(MERN);Artificial+Intelligence+%26+ML+Specialist;Building+Scalable+%26+Intelligent+Systems;Crafting+Modern+%26+Dynamic+User+Experiences" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I am a passionate **Computer Science student specializing in Artificial Intelligence and Machine Learning** at Takshashila University (Class of 2027), based in Tindivanam, India. I focus on bridging the gap between intelligent algorithms and seamless, modern software architecture.
-
-- 🔭 **Currently Building:** 
-  - **FuturePath 3D:** A comprehensive, tech-based career guidance platform designed for students across India to explore fields including Engineering, Medical, Arts, Commerce, etc.
-  - **ArloTechX:** Developing ultra-modern branding, animated promotions, and futuristic UI/UX solutions.
-  - **Digital Learning Hub & Tamil Learning Web App:** Full-stack educational platforms with dedicated progress-tracking dashboards.
-- 🌱 **Currently Deep-Diving Into:** Advanced Natural Language Processing (NLP), scalable MERN architectures, and next-gen design systems (glassmorphism & cyberpunk aesthetics).
-- 💬 **Ask Me About:** React, Node.js, MongoDB, Python, and AI integrations.
-- 📫 **How to Reach Me:** [LinkedIn](https://linkedin.com/in/aravindh-v2727) | [My Portfolio](https://aravindh2727.github.io/)
-
----
-
-### 🛠️ Technical Arsenal
-
-<details>
-  <summary><b>💻 Languages & Core Concepts</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🌐 Frontend & Backend Frameworks (MERN)</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🗄️ Databases & Cloud Hosting</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🤖 Tools & AI</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </p>
-</details>
-
----
-
-### 📊 GitHub Analytics
-
+<!-- Dynamic Animated Banner -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aravindh2727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aravindh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindh2727&theme=tokyonight&hide_border=true&background=0D1117" alt="Aravindh's GitHub Streak" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F0FF&height=250&section=header&text=ARAVINDH%20V&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Web%20%7C%20Android%20Specialist&descAlignY=55&descAlign=50" width="100%" alt="Aravindh V Banner"/>
+</div>
+
+<!-- Social Links & Contact -->
+<div align="center">
+  <a href="https://aravindh2727.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F0FF&border=00F0FF" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/aravindh-v2727"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&border=00F0FF" alt="LinkedIn" /></a>
+  <a href="mailto:aravindhapex@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&border=00F0FF" alt="Email" /></a>
+  <a href="https://github.com/Aravindh2727"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&border=00F0FF" alt="GitHub" /></a>
+</div>
+
+<br/>
+
+<!-- Two Column Layout: About & Highlights -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
+      <h2>👨‍💻 Executive Summary</h2>
+      <p>Results-driven <b>Full-Stack Web (MERN) and Mobile App Developer (Android/Kotlin)</b> specializing in building scalable web applications and high-performance intelligent systems. I bridge the gap between AI algorithms and seamless, responsive software architecture.</p>
+      <ul>
+        <li>🎓 <b>Education:</b> B.Sc Computer Science (AI & ML) at Takshashila University (Class of 2027) | CGPA: 8.60</li>
+        <li>🌱 <b>Focus Areas:</b> Advanced NLP, Cloud Deployments, Glassmorphism & Cyberpunk UI/UX</li>
+        <li>⚡ <b>Methodologies:</b> CI/CD Automation, Test-Driven Development (TDD), OOP</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" style="border: none;">
+      <h2>🚀 Career Highlights</h2>
+      <blockquote>
+        <b>Technology & Sustainability Fellow @ 1M1B</b><br/>
+        <i>April 2026 - June 2026</i><br/>
+        Reduced carbon footprints by <b>20%</b> through optimized compute allocation and evaluated global tech frameworks for system scalability.
+      </blockquote>
+      <blockquote>
+        <b>Engineering Impact</b><br/>
+        Managed development lifecycles for <b>100+ users</b> and deployed 10+ applications maintaining <b>99.9% uptime</b>.
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Tech Stack Section with Clean Grouping -->
+<h2 align="center">⚙️ Technical Arsenal</h2>
+<div align="center">
+  <p><b>Mobile & Frontend Frameworks</b></p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <p><b>Backend, Languages & Cloud</b></p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <p><b>Database & DevOps</b></p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- Grid Layout for Projects -->
+<h2 align="center">🏗️ Featured Engineering Projects</h2>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 SynchroTask</h3>
+      <p>Remote PC controller engineered with secure QR pairing and live screen capture capabilities.</p>
+      <code>Kotlin</code> <code>Firebase</code> <code>Win32</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 LoanBook</h3>
+      <p>Finance tracker featuring advanced LLM receipt OCR and intelligent background cloud synchronization.</p>
+      <code>Kotlin</code> <code>Room</code> <code>ML Kit</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 FuturePath 3D</h3>
+      <p>Interactive 3D platform visualizing comprehensive student career paths across India.</p>
+      <code>React</code> <code>Firebase</code> <code>3D Rendering</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Achievement Dashboard</h3>
+      <p>Real-time analytics dashboard visualizing programming milestones and developer metrics.</p>
+      <code>MERN Stack</code> <code>Chart.js</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GitHub Stats using Premium Cyberpunk/Dark Theme -->
+<h2 align="center">📈 GitHub Analytics & Activity</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aravindh2727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindh2727&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindh2727&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindh2727&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" width="60%" />
 </div>
 
----
+<hr/>
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i> <br/>
-  <a href="https://linkedin.com/in/aravindh-v2727">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://aravindh2727.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.instagram.com/_aravindh.v/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <b>Certifications:</b> Microsoft Applied Skills (Azure AI) • UiPath Automation Developer • Salesforce Certified (2x)<br/>
+  <i>Building the future, one line of code at a time.</i>
 </p>
