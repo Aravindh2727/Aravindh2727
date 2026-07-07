@@ -69,13 +69,13 @@
 
 <p align="center">
   <a href="https://github.com/Aravindh2727">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aravindh2727&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aravindh's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Aravindh2727&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aravindh's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aravindh2727">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindh2727&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aravindh2727&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 <hr/>
